@@ -2,7 +2,7 @@
 
 ![image](https://github.com/srivastavbudugutta/statistical_analysis_2d_vs_3d_ads/assets/123697766/50eb6768-4fcb-48aa-a27a-3f92744d57ff)
 
-![image](https://github.com/srivastavbudugutta/statistical_analysis_2d_vs_3d_ads/assets/123697766/59664617-eaa4-4d07-adbd-05ff6a970aba)
+
 
 ![image](https://github.com/srivastavbudugutta/statistical_analysis_2d_vs_3d_ads/assets/123697766/c2c8ad48-f23b-4177-ac28-a3a82c0d4251)
 ![image](https://github.com/srivastavbudugutta/statistical_analysis_2d_vs_3d_ads/assets/123697766/17794319-eacf-458e-b7b7-a662ab943308)
